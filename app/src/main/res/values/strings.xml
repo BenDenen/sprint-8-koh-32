@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">sprint-8-koh-32</string>
+    <string name="text_test" translatable="false">sprint-8-koh-32</string>
 </resources>
